@@ -170,4 +170,5 @@ model_dict/
 *.csv
 Plot/output/*
 Data/*.*
+Data_bak/*.*
 Pretrain/*
